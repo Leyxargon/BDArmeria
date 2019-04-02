@@ -1,5 +1,0 @@
-Entità:
-- FABBRICA - - - - - COD. FABBRICA/AZIENDA   (IN RELAZIONE CON ARMI 'PROVIENE DA')
-- ARMA     - - - -  CH. MATRICOLA   // 
-- CLIENTE - - - - - CH. C.F.
-- MUNIZIONI - - - - - CODICE 
