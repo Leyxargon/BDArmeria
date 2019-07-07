@@ -1,0 +1,60 @@
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('GIOALE77T07H344S','Alessandra','Giordano',to_date('07-08-1977', 'dd-mm-yyyy'),'Via Risorgimento 30',81039,'Villa Literno');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('FERMAR75T10S438G','Maria','Ferrari',to_date('10-09-1975', 'dd-mm-yyyy'),'Via Suarez 151',83042,'Atripalda');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('BIAALE47T17A287S','Alessandro','Bianchi',to_date('17-05-1947', 'dd-mm-yyyy'),'Via IV Novembre 146',83031,'Ariano Irpino');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('BRUDAR58T17J362B','Daria','Bruno',to_date('17-04-1958', 'dd-mm-yyyy'),'Via Vittorio Veneto 110',80078,'Pozzuoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('GREMIC62T03W605M','Michele','Greco',to_date('03-03-1962', 'dd-mm-yyyy'),'Via Vittorio Veneto 6',80129,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('COSRAF81T14Y275B','Raffaele','Costa',to_date('14-06-1981', 'dd-mm-yyyy'),'Via John Fitzgerald Kennedy 91',84087,'Sarno');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('MANGIO90T21O713H','Giovanna','Mancini',to_date('21-09-1990', 'dd-mm-yyyy'),'Via Marconi 62',80130,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('FERRAF50T19N806L','Raffaella','Ferrari',to_date('19-06-1950', 'dd-mm-yyyy'),'Via Turati 34',80014,'Giugliano in Campania');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('COLMIC56T19G873R','Michele','Colombo',to_date('19-09-1956', 'dd-mm-yyyy'),'Via Silvio Pellico 114',80121,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('ESPMAT45T26X253G','Matteo','Esposito',to_date('26-11-1945', 'dd-mm-yyyy'),'Via Giovanni Pascoli 90',80123,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('MANDAV88T22X221W','Davide','Mancini',to_date('22-02-1988', 'dd-mm-yyyy'),'Via Risorgimento 32',82100,'Benevento');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('RIZDAR92T01I140W','Dario','Rizzo',to_date('01-03-1992', 'dd-mm-yyyy'),'Via Giovanni XXIII 173',82100,'Benevento');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('ESPANT98T27N910U','Antonia','Esposito',to_date('27-11-1998', 'dd-mm-yyyy'),'Via Mazzini 109',80014,'Giugliano in Campania');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('RUSGIU96T11G789P','Giuseppe','Russo',to_date('11-11-1996', 'dd-mm-yyyy'),'Via Gorizia 160',84123,'Salerno');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('MORDAV84T13Y894D','Davide','Moretti',to_date('13-01-1984', 'dd-mm-yyyy'),'Via Michelangelo Buonarroti 198',80014,'Giugliano in Campania');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('COLRIT47T27R716E','Rita','Colombo',to_date('27-10-1947', 'dd-mm-yyyy'),'Via Galileo Galilei 85',80141,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('RICVIN73T25M743Z','Vincenza','Ricci',to_date('25-06-1973', 'dd-mm-yyyy'),'Via Suarez 188',80132,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('RICGIU90T11Q817C','Giusy','Ricci',to_date('11-06-1990', 'dd-mm-yyyy'),'Via Gorizia 175',80146,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('MORGEN51T19W207C','Gennaro','Moretti',to_date('19-05-1951', 'dd-mm-yyyy'),'Via Giovanni Pascoli 155',80128,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('MANANT67T22C640M','Antonio','Mancini',to_date('22-05-1967', 'dd-mm-yyyy'),'Via Giuseppe Di Vittorio 80',84012,'Angri');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('RUSDAR49T24G956K','Daria','Russo',to_date('24-06-1949', 'dd-mm-yyyy'),'Via Verdi 180',80141,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('GIOVIN69T08U370X','Vincenzo','Giordano',to_date('08-09-1969', 'dd-mm-yyyy'),'Via San Rocco 12',84087,'Sarno');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('ESPLUC43T13S683V','Luca','Esposito',to_date('13-05-1943', 'dd-mm-yyyy'),'Via Suarez 73',84025,'Eboli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('ROSALE42T02M761M','Alessandra','Rossi',to_date('02-02-1942', 'dd-mm-yyyy'),'Via Risorgimento 43',80078,'Pozzuoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('BRUANT53T25M580C','Antonio','Bruno',to_date('25-03-1953', 'dd-mm-yyyy'),'Via Alcide De Gasperi 44',84121,'Salerno');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('BRUGIO75T14O657N','Giovanni','Bruno',to_date('14-10-1975', 'dd-mm-yyyy'),'Via Mazzini 64',80141,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('ESPEMA59T21N325A','Emanuele','Esposito',to_date('21-12-1959', 'dd-mm-yyyy'),'Via Alessandro Volta 118',80143,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('GIOGIU50T16P988T','Giusy','Giordano',to_date('16-06-1950', 'dd-mm-yyyy'),'Via Giuseppe Di Vittorio 59',80131,'Napoli');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('MORGIU80T29T653W','Giusy','Moretti',to_date('29-05-1980', 'dd-mm-yyyy'),'Via Armando Diaz 31',81031,'Aversa');
+INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)
+VALUES ('BIARAF65T19I265S','Raffaele','Bianchi',to_date('19-06-1965', 'dd-mm-yyyy'),'Via Don Minzoni 111',80078,'Pozzuoli');
