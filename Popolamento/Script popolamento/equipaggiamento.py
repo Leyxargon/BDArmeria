@@ -13,4 +13,4 @@ def randomMarca():
 
 for i in range (0, 5):
 	print("INSERT INTO EQUIPAGGIAMENTO (CODICE_PRODOTTO, CALIBRO, MARCA, COD_FORNITURA, NUM_PORTO_ARMI, NUM_PROG)", file=open("popolamento_equipaggiamento.sql","a"))
-	print("VALUES ({}, {}, '{}', (cod_fornitura), '(num_porto_armi)', (num_prog));".format(randomCP(),randomCalibro(),randomMarca()), file=open("popolamento_equipaggiamento.sql","a"))
+	print("VALUES ('{}', {}, '{}', '(cod_fornitura)', '(num_porto_armi)', '(num_prog)');".format(randomCP(),randomCalibro(),randomMarca()), file=open("popolamento_equipaggiamento.sql","a"))

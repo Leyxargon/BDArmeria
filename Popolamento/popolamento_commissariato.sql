@@ -19,7 +19,7 @@ VALUES ('comm.decumani.na@pecps.poliziadistato.it','Commissariato Napoli Decuman
 INSERT INTO COMMISSARIATO (PEC, NOME_COMM, CAP_COMM, VIA_COMM, CITTA_COMM)
 VALUES ('comm.vomero.na@pecps.poliziadistato.it','Commissariato Napoli Vomero - Ufficio Amministrativa',80129,'Via Antonio Gramsci 132','Napoli');
 INSERT INTO COMMISSARIATO (PEC, NOME_COMM, CAP_COMM, VIA_COMM, CITTA_COMM)
-VALUES ('upgsp.sessaaurunca.ce@pecps.poliziadistato.it','Commissariato Sessa Aurunca - Ufficio Amministrativa e sociale',81037,'Via Manzoni 189','Sessa Aurunca');
+VALUES ('sessaaurunca.ce@pecps.poliziadistato.it','Commissariato Sessa Aurunca - Ufficio RP',81037,'Via Manzoni 189','Sessa Aurunca');
 INSERT INTO COMMISSARIATO (PEC, NOME_COMM, CAP_COMM, VIA_COMM, CITTA_COMM)
 VALUES ('comm.posillipo.na@pecps.poliziadistato.it','Commissariato Napoli Posillipo - Ufficio Amministrativa',80123,'Via San Rocco 58','Napoli');
 INSERT INTO COMMISSARIATO (PEC, NOME_COMM, CAP_COMM, VIA_COMM, CITTA_COMM)

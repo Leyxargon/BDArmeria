@@ -49,4 +49,4 @@ def randomImporto():
 	
 for i in range (0, 5):
 	print("INSERT INTO VENDITA (NUM_PROG,DATA_V,ORA_V,IMPORTO)", file=open("popolamento_vendita.sql","a"))
-	print("VALUES ({},to_date('{}', 'dd-mm-yyyy'),'{}',{});".format(randomNumProg(),randomData(),randomOra(), randomImporto()), file=open("popolamento_vendita.sql","a"))
+	print("VALUES ('{}',to_date('{}', 'dd-mm-yyyy'),'{}',{});".format(randomNumProg(),randomData(),randomOra(), randomImporto()), file=open("popolamento_vendita.sql","a"))

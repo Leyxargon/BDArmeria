@@ -9,4 +9,4 @@ def randomTEL():
 	
 for i in range (0, 5):
 	print("INSERT INTO CLIENTE (NUM_PORTO_ARMI,CF_CLI,TELEFONO)", file=open("popolamento_cliente.sql","a"))
-	print("VALUES ('{}','(cf_cli)',{});".format(randomPDA(),randomTEL()), file=open("popolamento_cliente.sql","a"))
+	print("VALUES ('{}','(cf_cli)','{}');".format(randomPDA(),randomTEL()), file=open("popolamento_cliente.sql","a"))

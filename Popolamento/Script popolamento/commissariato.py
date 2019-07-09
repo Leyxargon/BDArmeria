@@ -89,4 +89,4 @@ for i in range (0, 5):
 	pec = randomPec()
 	citta = randomCittaPec(pec)
 	print("INSERT INTO COMMISSARIATO (PEC, NOME_COMM, CAP_COMM, VIA_COMM, CITTA_COMM)", file=open("popolamento_commissariato.sql","a"))
-	print("VALUES ('{}','{}','___','{}','{}');".format(pec, randomNomeComm(pec,citta), randomViaComm(), citta), file=open("popolamento_commissariato.sql","a"))
+	print("VALUES ('{}','{}',_____,'{}','{}');".format(pec, randomNomeComm(pec,citta), randomViaComm(), citta), file=open("popolamento_commissariato.sql","a"))

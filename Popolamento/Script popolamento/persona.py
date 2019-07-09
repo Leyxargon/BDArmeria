@@ -86,4 +86,4 @@ for i in range (0, 5):
 	datanascita = randomDN()
 	CF = randomCF(cognome, nome, datanascita)
 	print("INSERT INTO PERSONA (CF,NOME,COGNOME,DATA_NASCITA,VIA,CAP,CITTA)", file=open("popolamento_persona.sql","a"))
-	print("VALUES ('{}','{}','{}',to_date('{}', 'dd-mm-yyyy'),'{}','_',{});".format(CF, nome, cognome, datanascita, randomVia(),randomCitta()), file=open("popolamento_persona.sql","a"))
+	print("VALUES ('{}','{}','{}',to_date('{}', 'dd-mm-yyyy'),'{}',_____,'{}');".format(CF, nome, cognome, datanascita, randomVia(),randomCitta()), file=open("popolamento_persona.sql","a"))

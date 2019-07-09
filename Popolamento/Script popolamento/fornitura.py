@@ -36,4 +36,4 @@ def randomImporto():
 
 for i in range (0, 5):
 	print("INSERT INTO FORNITURA (COD_FORNITURA,DATA_SPEDIZIONE,PREZZO_LOTTO,P_IVA_FORN)", file=open("popolamento_fornitura.sql","a"))
-	print("VALUES ({},to_date('{}', 'dd-mm-yyyy'),{},(p_iva_forn));".format(randomCOF(),randomData(),randomImporto()), file=open("popolamento_fornitura.sql","a"))
+	print("VALUES ('{}',to_date('{}', 'dd-mm-yyyy'),{},'(p_iva_forn)');".format(randomCOF(),randomData(),randomImporto()), file=open("popolamento_fornitura.sql","a"))

@@ -1,30 +1,30 @@
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (8943019184,to_date('11-03-2017', 'dd-mm-yyyy'),'ammin.comm.maddaloni.ce@pecps.poliziadistato.it','GIOALE77T07H344S',7739401479);
+VALUES ('8943019184',to_date('11-03-2017', 'dd-mm-yyyy'),'ammin.comm.maddaloni.ce@pecps.poliziadistato.it','GIOALE77T07H344S','7739401479');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (2214958917,to_date('30-01-2016', 'dd-mm-yyyy'),'ammin.comm.aversa.ce@pecps.poliziadistato.it','FERMAR75T10S438G',1715329276);
+VALUES ('2214958917',to_date('30-01-2016', 'dd-mm-yyyy'),'ammin.comm.aversa.ce@pecps.poliziadistato.it','FERMAR75T10S438G','1715329276');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (8757748945,to_date('09-05-2018', 'dd-mm-yyyy'),'comm.arenella.na@pecps.poliziadistato.it','BIAALE47T17A287S',9238093512);
+VALUES ('8757748945',to_date('09-05-2018', 'dd-mm-yyyy'),'comm.arenella.na@pecps.poliziadistato.it','BIAALE47T17A287S','9238093512');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (6811018571,to_date('16-01-2018', 'dd-mm-yyyy'),'comm.montecalvario.na@pecps.poliziadistato.it','BRUDAR58T17J362B',3590322081);
+VALUES ('6811018571',to_date('16-01-2018', 'dd-mm-yyyy'),'comm.montecalvario.na@pecps.poliziadistato.it','BRUDAR58T17J362B','3590322081');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (3785712882,to_date('21-11-2017', 'dd-mm-yyyy'),'comm.sangiuseppevesuviano.na@pecps.poliziadistato.it','COSRAF81T14Y275B',7855368998);
+VALUES ('3785712882',to_date('21-11-2017', 'dd-mm-yyyy'),'comm.sangiuseppevesuviano.na@pecps.poliziadistato.it','COSRAF81T14Y275B','7855368998');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (2605014903,to_date('22-01-2018', 'dd-mm-yyyy'),'upgsp.sessaaurunca.ce@pecps.poliziadistato.it','FERRAF50T19N806L',9284770302);
+VALUES ('2605014903',to_date('22-01-2018', 'dd-mm-yyyy'),'upgsp.sessaaurunca.ce@pecps.poliziadistato.it','FERRAF50T19N806L','9284770302');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (9986749054,to_date('22-10-2017', 'dd-mm-yyyy'),'upgsp.afragola.na@pecps.poliziadistato.it','COSRAF81T14Y275B',8389711562);
+VALUES ('9986749054',to_date('22-10-2017', 'dd-mm-yyyy'),'upgsp.afragola.na@pecps.poliziadistato.it','COSRAF81T14Y275B','8389711562');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (1631011056,to_date('18-01-2017', 'dd-mm-yyyy'),'comm.smcapuavetere.ce@pecps.poliziadistato.it','MANDAV88T22X221W',1990504778);
+VALUES ('1631011056',to_date('18-01-2017', 'dd-mm-yyyy'),'comm.smcapuavetere.ce@pecps.poliziadistato.it','MANDAV88T22X221W','1990504778');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (1604670790,to_date('25-05-2015', 'dd-mm-yyyy'),'comm.decumani.na@pecps.poliziadistato.it','GREMIC62T03W605M',3264539656);
+VALUES ('1604670790',to_date('25-05-2015', 'dd-mm-yyyy'),'comm.decumani.na@pecps.poliziadistato.it','GREMIC62T03W605M','3264539656');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (8300519443,to_date('25-03-2017', 'dd-mm-yyyy'),'comm.vomero.na@pecps.poliziadistato.it','COLMIC56T19G873R',9121061140);
+VALUES ('8300519443',to_date('25-03-2017', 'dd-mm-yyyy'),'comm.vomero.na@pecps.poliziadistato.it','COLMIC56T19G873R','9121061140');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (4240915793,to_date('15-08-2015', 'dd-mm-yyyy'),'upgsp.sessaaurunca.ce@pecps.poliziadistato.it','RIZDAR92T01I140W',6042629638);
+VALUES ('4240915793',to_date('15-08-2015', 'dd-mm-yyyy'),'upgsp.sessaaurunca.ce@pecps.poliziadistato.it','RIZDAR92T01I140W','6042629638');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (5565724125,to_date('06-05-2015', 'dd-mm-yyyy'),'comm.posillipo.na@pecps.poliziadistato.it','ESPMAT45T26X253G',7576674534);
+VALUES ('5565724125',to_date('06-05-2015', 'dd-mm-yyyy'),'comm.posillipo.na@pecps.poliziadistato.it','ESPMAT45T26X253G','7576674534');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (1655872731,to_date('05-04-2017', 'dd-mm-yyyy'),'upgsp.castelvolturno.ce@pecps.poliziadistato.it','RUSGIU96T11G789P',1429142705);
+VALUES ('1655872731',to_date('05-04-2017', 'dd-mm-yyyy'),'upgsp.castelvolturno.ce@pecps.poliziadistato.it','RUSGIU96T11G789P','1429142705');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (1696274661,to_date('14-12-2016', 'dd-mm-yyyy'),'ammin.comm.chiaiano.na@pecps.poliziadistato.it','MORDAV84T13Y894D',2392538214);
+VALUES ('1696274661',to_date('14-12-2016', 'dd-mm-yyyy'),'ammin.comm.chiaiano.na@pecps.poliziadistato.it','MORDAV84T13Y894D','2392538214');
 INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)
-VALUES (4819624287,to_date('09-10-2015', 'dd-mm-yyyy'),'comm.aversa.ce@pecps.poliziadistato.it','ESPANT98T27N910U',1239430275);
+VALUES ('4819624287',to_date('09-10-2015', 'dd-mm-yyyy'),'comm.aversa.ce@pecps.poliziadistato.it','ESPANT98T27N910U','1239430275');

@@ -10,4 +10,4 @@ def randomNA():
 
 for i in range (0, 5):
 	print("INSERT INTO ACCESSORIO (COD_BARRE,NOME_ACC)", file=open("popolamento_accessorio.sql","a"))
-	print("VALUES ({},'{}');".format(randomCB(),randomNA()), file=open("popolamento_accessorio.sql","a"))
+	print("VALUES ('{}','{}');".format(randomCB(),randomNA()), file=open("popolamento_accessorio.sql","a"))

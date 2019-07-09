@@ -17,4 +17,4 @@ def randomDen():
 
 for i in range (0, 5):
 	print("INSERT INTO FORNITORE (P_IVA_FORN,DENOMINAZIONE,TELEFONO_FORN)", file=open("popolamento_fornitore.sql","a"))
-	print("VALUES ({},'{}',{});".format(randomPIVA(),randomDen(),randomTEL()), file=open("popolamento_fornitore.sql","a"))
+	print("VALUES ('{}','{}','{}');".format(randomPIVA(),randomDen(),randomTEL()), file=open("popolamento_fornitore.sql","a"))

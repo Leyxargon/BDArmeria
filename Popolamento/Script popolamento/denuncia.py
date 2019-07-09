@@ -33,4 +33,4 @@ def randomData():
 	
 for i in range (0, 5):
 	print("INSERT INTO DENUNCIA (CODICE_PROGRESSIVO,DATA_DENUNCIA,PEC,CF,CODICE_PRODOTTO)", file=open("popolamento_denuncia.sql","a"))
-	print("VALUES ({},to_date('{}', 'dd-mm-yyyy'),(pec),(cf),(codice_prodotto));".format(randomCodiceProgressivo(), randomData()), file=open("popolamento_denuncia.sql","a"))
+	print("VALUES ('{}',to_date('{}', 'dd-mm-yyyy'),'(pec)','(cf)','(codice_prodotto)');".format(randomCodiceProgressivo(), randomData()), file=open("popolamento_denuncia.sql","a"))
