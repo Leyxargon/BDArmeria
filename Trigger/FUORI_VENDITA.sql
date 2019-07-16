@@ -4,11 +4,11 @@ FOR EACH ROW
 DECLARE
 	ORARIO_VENDITA	EXCEPTION;
 BEGIN
-	IF :NEW.ORA_V>'21:00' OR :NEW.ORA_V<'07:30'  THEN
+	IF :NEW.ORA_V > '21:00' OR :NEW.ORA_V < '07:30' THEN
 		RAISE ORARIO_VENDITA;
 	END IF;
 EXCEPTION
 	WHEN ORARIO_VENDITA THEN
-		RAISE_APPLICATION_ERROR(-20005,'Armeria Chiusa, vendite non possibili in questo orario');
+		RAISE_APPLICATION_ERROR(-20005,'Armeria chiusa, le vendite non sono possibili in questo orario');
 END;
 /
